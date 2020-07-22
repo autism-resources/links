@@ -1,3 +1,6 @@
+
+My current bookmark collection of links regarding Asperger's and Autism.
+
 ## Government & NGO Resources
 1. US Dept. of Health and Human Services - [Autism Information](https://www.hhs.gov/programs/topic-sites/autism/index.html) (Excellent resource)
 	a. [Private and Non-profit Organizations](https://iacc.hhs.gov/resources/private-organizations/)
