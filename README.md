@@ -1,14 +1,31 @@
 ## Government & NGO Resources
 1. US Dept. of Health and Human Services - [Autism Information](https://www.hhs.gov/programs/topic-sites/autism/index.html) (Excellent resource)
+	a. [Private and Non-profit Organizations](https://iacc.hhs.gov/resources/private-organizations/)
 2. National Institute of Mental Health - [Autism Spectrum Disorder](https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder/index.shtml)
 3. CDC - [Autism Spectrum Disorder](https://www.cdc.gov/ncbddd/autism/index.html)
 	a. [Autism Data Visualization Tool](https://www.cdc.gov/ncbddd/autism/data/index.html)
+	b. [Links to other websites](https://www.cdc.gov/ncbddd/autism/links.html)
 4. World Health Organization (WHO) - [Autism Spectrum Disorders](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders) (11/07/2019)
 5. [Ontario Ministry of Children, Community and Social Services](http://www.children.gov.on.ca/) - [The Autism Parent Resource Kit.](http://www.children.gov.on.ca/htdocs/English/documents/specialneeds/autism/aprk/Autism_Parenting_Kit_English.pdf)
+6. [Autism Speaks](https://www.autismspeaks.org/) 
+7. Sage Journals - [Autism](https://journals.sagepub.com/home/aut)
+8. Mayo Clinic - [Autism Spectrum Disorder](https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder/symptoms-causes/syc-20352928)
+9. Exceptional Lives - [Autism resources](https://www.exceptionallives.org/resources?gclid=Cj0KCQjwo6D4BRDgARIsAA6uN18NfK-uhBYN6gcj3hmHIwbldougdnhlpZiw0TH_9nAeFlv1XwLpX_saAk_DEALw_wcB#autism)
+10. [AANE - Asperger/Autism Network](https://www.aane.org/)  
+11. NAMI - National Alliance On Mental Illness - [Autism](https://www.nami.org/Learn-More/Mental-Health-Conditions/Related-Conditions/Autism) 
+12. [Autism Research Institute](https://www.autism.org/) - [Autism Resources for COVID-19](https://www.autism.org/covid-19-resources/)
+13. [National Autism Association](https://nationalautismassociation.org/)
 
-## New and Research
+## University Resources
+1. Indiana University Bloomington - [Indiana Resource Center for Autism](https://www.iidc.indiana.edu/irca/index.html)
+
+## News and Research
 1. [Spectrum](https://www.spectrumnews.org/) (news and analysis for autism research).  [Newsletter](https://www.spectrumnews.org/newsletter/). 
 	a. [Autism 101](https://www.spectrumnews.org/features/special-reports/autism-101/)
+2. Brain & Behavior Research Foundation - [Autism FAQs](https://www.bbrfoundation.org/faq/frequently-asked-questions-about-autism)
+
+## Employment
+1. Indiana Resource Center for Autism - [Choosing the Right Job for People with Autism or Asperger's Syndrome.](https://www.iidc.indiana.edu/irca/articles/choosing-the-right-job-for-people-with-autism-or-aspergers-syndrome.html)
 
 ## Associations & Links for Medical Professionals
 
@@ -35,7 +52,7 @@
 
 ### Psychology and Psychiatry
 1. American Psychiatric Association - [What is Autism Spectrum Disorder?](https://www.psychiatry.org/patients-families/autism/what-is-autism-spectrum-disorder)
-
+2. American Academy of Child & Adolescent Psychiatry - [Autism Resource Center](https://www.aacap.org/AACAP/Families_and_Youth/Resource_Centers/Autism_Resource_Center/Home.aspx)
 
 ## International Resources
 1. (Korean) "[Autism (and Developmental Disabilities) for Asian Families](https://www.youtube.com/watch?v=_OUoMGB2Ut8)". (01/25/14)
@@ -43,6 +60,11 @@
 
 ## Misc. Resources
 1. Psychology Today.  [What is Autism?](https://www.psychologytoday.com/us/basics/autism)
+2. WebMD - [Autism](https://www.webmd.com/brain/autism/understanding-autism-basics)
+3. WrightsLaw - [Autism, Autism Spectrum Disorder (ASD), Pervasive Developmental Disorder (PDD), Asperger Syndrome (AS)](https://www.wrightslaw.com/info/autism.index.htm)
+
+## Products and Toys
+1. [National Autism Resources](https://www.nationalautismresources.com/)
 
 ## Aging
 1. WebMD - [Who Will Care for Adults with Autism?](https://www.webmd.com/brain/autism/news/20130823/who-will-care-for-children-with-autism-when-theyre-adults)
@@ -56,9 +78,8 @@
 4. LoveToKnow - [Planning for Autistic Child's Parent Death](https://autism.lovetoknow.com/Death_of_Parent_of_Autistic_Child)
 5. Quota - [What happens to autistic adults when parents die?](https://www.quora.com/What-happens-to-autistic-adults-when-parents-die) 
 6. VeryWellHealth - [What Will Happen to Our Autistic Child After We Die?](https://www.verywellhealth.com/autistic-child-parent-death-259909)
+7. Indiana Resource Center for Autism - [Supporting Individuals on the Autism Spectrum Coping with Grief and Loss through Death or Divorce](https://www.iidc.indiana.edu/irca/articles/supporting-individuals-on-the-autism-spectrum-coping-with-grief-and-loss.html)
  
-
-
 ## Video Resources
 
 ### YouTube
@@ -77,6 +98,5 @@
 9. [What Being Autistic Taught Me About Being Human.](https://www.youtube.com/watch?v=KeMW2Asu8vg) (Daniel Wendler. TEDxBend. 05/04/18.)
 10. [Reconsidering the Autism Spectrum.](https://www.youtube.com/watch?v=2v33Hm3WswY) (Ronit Molko. TEDxSedona. 06/07/19.)
 11. [Why everything you know about autism is wrong.](https://www.youtube.com/watch?v=A1AUdaH-EPM) (Jac den Houting. TEDxMacquarieUniversity. 11/01/19.)
-
 
 > Written with [StackEdit](https://stackedit.io/).
