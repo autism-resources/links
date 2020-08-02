@@ -31,7 +31,9 @@ My current bookmark collection of links regarding Asperger's and Autism.
 1. Indiana Resource Center for Autism - [Choosing the Right Job for People with Autism or Asperger's Syndrome.](https://www.iidc.indiana.edu/irca/articles/choosing-the-right-job-for-people-with-autism-or-aspergers-syndrome.html)
 
 ## Links for Law Enforcement Professionals
-1. Law Enforcement and Autism: Why it’s an Issue and What to Do [article](https://ibcces.org/blog/2020/06/22/law-enforcement-autism-why-important/)
+1. Law Enforcement and Autism: Why it’s an Issue and What to Do [International Board of Credentialing and Continuing Education Standards - article](https://ibcces.org/blog/2020/06/22/law-enforcement-autism-why-important/)
+2. Why police need training to interact with people on the spectrum [Spectrumnews.org article](https://www.spectrumnews.org/features/deep-dive/police-need-training-interact-people-spectrum/)
+3. Law Enforcement and Autism: Why training is needed. [Psychology Today - article](https://www.psychologytoday.com/us/blog/neuroscience-in-translation/202006/law-enforcement-and-autism-why-training-is-needed)
 
 ## Associations & Links for Medical Professionals
 
